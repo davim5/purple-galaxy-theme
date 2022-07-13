@@ -1,0 +1,21 @@
+{
+    "name": "purple-galaxy-theme",
+    "displayName": "Purple Galaxy Theme",
+    "description": "Awesome dark purple and colorful theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Purple Galaxy Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Purple Galaxy Theme-color-theme.json"
+            }
+        ]
+    }
+}
