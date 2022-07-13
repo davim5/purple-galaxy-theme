@@ -3,6 +3,10 @@
     "displayName": "Purple Galaxy Theme",
     "description": "Awesome dark purple and colorful theme",
     "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/davim5/purple-galaxy-theme.git"
+    },
     "engines": {
         "vscode": "^1.69.0"
     },
