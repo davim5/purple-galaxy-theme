@@ -1,4 +1,4 @@
-# Purple Galaxy Theme
+# Super Purple Galaxy Theme
 
 Awesome colorful purple dark theme for VSCode.
 
