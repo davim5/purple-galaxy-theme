@@ -8,12 +8,21 @@
         "type": "git",
         "url": "https://github.com/davim5/purple-galaxy-theme.git"
     },
+    "maintainers": [
+        "Davi Lima <davim53@hotmail.com>"
+    ],
     "publisher": "davim5",
     "engines": {
         "vscode": "^1.69.0"
     },
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "Galaxy",
+        "purple",
+        "dark-theme",
+        "color-theme"
     ],
     "contributes": {
         "themes": [
